@@ -17,7 +17,7 @@
 
 **Affected Product Code Base**: Viidure v2.1.1.250317
 
-**Affected Component**: Video storage and live feed
+**Affected Component**: FTP Server
 
 **Attack Type**: Remote
 
